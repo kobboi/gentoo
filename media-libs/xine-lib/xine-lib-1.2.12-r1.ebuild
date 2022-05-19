@@ -118,7 +118,7 @@ REQUIRED_USE="
 "
 
 PATCHES=(
-	"${FILESDIR}"/${PN}-1.2.12-dav1d-1.0.0.patch
+	"${FILESDIR}"/${PN}-1.2.11-dav1d-1.0.0.patch
 )
 
 src_prepare() {
