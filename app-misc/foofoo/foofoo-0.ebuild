@@ -1,0 +1,5 @@
+EAPI=8
+
+SLOT=${PV}
+KEYWORDS="~amd64"
+

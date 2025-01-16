@@ -1,0 +1,6 @@
+EAPI=8
+
+SLOT=${PV}
+KEYWORDS=~amd64
+
+DEPEND="<${CATEGORY}/${PF}"
